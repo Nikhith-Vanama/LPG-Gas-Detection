@@ -1,1 +1,2 @@
 # LPG-Gas-Detection
+LPG Gas Detection Project is a safety system designed to detect the presence of LPG gas leaks using sensors like the MQ-2 or MQ-6. When gas concentration exceeds a safe threshold, the system triggers an alarm and can activate exhaust fans or send alerts. A microcontroller processes sensor data and controls the response actions. This project helps prevent fire hazards and ensures timely warning in kitchens, homes, and industries.
